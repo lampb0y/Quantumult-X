@@ -1,3 +1,3 @@
-# TeamSpeak
-HOST-SUFFIX,underrate.net,DIRECT
-HOST-SUFFIX,deepl.com,DIRECT
+# MyConfig
+HOST-SUFFIX,underrate.net,MyConfigDirect
+HOST-SUFFIX,deepl.com,MyConfigDirect
