@@ -1,4 +1,7 @@
 # MyConfig
 HOST-SUFFIX,underrate.net,MyConfigDirect
 HOST-SUFFIX,deepl.com,MyConfigDirect
+HOST-SUFFIX,realsrv.com,MyConfigProxy
+HOST-SUFFIX,flurry.com,MyConfigProxy
+HOST-SUFFIX,jsdelivr.net,MyConfigProxy
 HOST-KEYWORD,jable,MyConfigProxy
