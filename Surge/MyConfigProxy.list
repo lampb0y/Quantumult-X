@@ -1,5 +1,5 @@
 # MyConfigProxy
-HOST-SUFFIX,realsrv.com
-HOST-SUFFIX,flurry.com
-HOST-SUFFIX,jsdelivr.net
-HOST-KEYWORD,jable
+DOMAIN-SUFFIX,realsrv.com
+DOMAIN-SUFFIX,flurry.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-KEYWORD,jable
