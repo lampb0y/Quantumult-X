@@ -1,2 +1,4 @@
 DOMAIN-SUFFIX,underrate.net
 DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,mynetgear.com
+IP-CIDR,10.0.0.1/24
